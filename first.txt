@@ -2,3 +2,4 @@ github の 練習をします。
 追加のテキスト１を書き込みました。
 -- git add
 -- git commit
+-- git rm
